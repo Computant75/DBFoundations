@@ -31,5 +31,5 @@
 Had to use the HTML trick because:
 
 ![First page of paper](.images/Assignment07_Writeup_ABaker-1.png)
-![Second page of paper](.images/Assignment07_Writeup_ABaker-2.png) 
+![Second page of paper](.images/Assignment07_Writeup_ABaker-2.png)
 
