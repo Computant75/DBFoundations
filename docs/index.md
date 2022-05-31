@@ -25,5 +25,6 @@
 ## Summary  
 	You can use a user-defined scalar function to change the way an output appears, or to alter an output.  You can use a user-defined inline function to provide all data on a given line of a table (e.g. all data about a customer, or all data about a product) especially as an output to other programs.  You can use a user-defined multi-statement function to provide a table output, especially to create an easier to use code for other employees.
   
+![First page of paper](https://github.com/Computant75/DBFoundations/blob/main/docs/images/Assignment07_Writeup_ABaker-1.png)
+![Second page of paper](https://github.com/Computant75/DBFoundations/blob/main/docs/images/Assignment07_Writeup_ABaker-2.png)
 
-  
